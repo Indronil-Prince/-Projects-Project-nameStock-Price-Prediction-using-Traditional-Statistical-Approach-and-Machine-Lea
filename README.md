@@ -1,1 +1,1 @@
-# -Projects-Project-nameStock-Price-Prediction-using-Traditional-Statistical-Approach-and-Machine-Lea
+#Stock-Price-Prediction-using-Traditional-Statistical-Approach-and-Machine-Learning-Approach
